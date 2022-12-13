@@ -1,0 +1,2 @@
+for datos in  reversed(range(1,101)):
+    print(datos)
